@@ -50,18 +50,18 @@ Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-
 
 ## Project Structure
 
-causal-inference-workforce-attrition/
-│
-├── data/                          # Raw and processed data (not tracked)
-├── notebooks/
-│   ├── 01_eda.ipynb               # Exploratory data analysis
-│   ├── 02_propensity_matching.ipynb   # Propensity score matching
-│   └── 03_analysis_and_results.ipynb  # Statistical testing and results
-├── outputs/                       # Saved visualizations
-├── src/
-│   └── matching.py                # Reusable matching functions
-├── requirements.txt
-└── README.md
+    causal-inference-workforce-attrition/
+    │
+    ├── data/                               # Raw and processed data (not tracked)
+    ├── notebooks/
+    │   ├── 01_eda.ipynb                    # Exploratory data analysis
+    │   ├── 02_propensity_matching.ipynb    # Propensity score matching
+    │   └── 03_analysis_and_results.ipynb  # Statistical testing and results
+    ├── outputs/                            # Saved visualizations
+    ├── src/
+    │   └── matching.py                     # Reusable matching functions
+    ├── requirements.txt
+    └── README.md
 
 ---
 

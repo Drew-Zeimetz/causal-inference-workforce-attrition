@@ -58,8 +58,6 @@ Source: [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-
     │   ├── 02_propensity_matching.ipynb    # Propensity score matching
     │   └── 03_analysis_and_results.ipynb  # Statistical testing and results
     ├── outputs/                            # Saved visualizations
-    ├── src/
-    │   └── matching.py                     # Reusable matching functions
     ├── requirements.txt
     └── README.md
 
